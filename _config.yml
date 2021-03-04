@@ -50,7 +50,7 @@ linkedin_username: CarterHaid
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Carter and I'm a Cyber Security Student. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-  I am most skilled in: <mark>Python</mark>, <mark>AWS</mark>, and <mark>Penetration Testing</mark>
+  I am most skilled in: <mark>Python</mark>, <mark>AWS</mark>, and <mark>Penetration Testing</mark>.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
@@ -82,7 +82,7 @@ content:
         quote: >
           Empowering the people who serve the public.
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            My primary focus at Tyler Technologies was policy and procedure documentation. I had the oppertunity to work with multiple information security teams and document what they do on a day to day basis. I also got some awesome training about how to use metasploit for penetration testing and wrote their company wiki page for some newly developed Security Tools.
       - layout: left
         title: Northeast Bank
         link: northeastbank.com
@@ -92,7 +92,7 @@ content:
         quote: >
           Personalized Service Across the Nation.
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception.
+            I worked as a long term intern for Northeast Bank. I traveled western Maine completing tickets, making network fixes, and upgrading old infastructre. I also learned how to triage tickets and monitor the network for performance issues, security threats, or outages.
       - layout: left
         title: The Jackson Laboratory
         link: jax.org
@@ -102,7 +102,7 @@ content:
         quote: >
           Empowering the people who serve the public.
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception.
+            My first summer internship after my freshman year of college. I Learned <mark>Extreme Networking</mark> and gained more exposure into how firewalls, load balancers, and WAP's work. I also helped to design and implement the data network in their newly constructed facility in Ellsworth, Maine.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -119,7 +119,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Working on Certifications... Right now I have: <mark>CompTIA Security+</mark> + & <mark>AWS Cloud Practitioner</mark>
+      - Working on Certifications... Right now I have: <mark>CompTIA Security+</mark> & <mark>AWS Cloud Practitioner</mark>
       - Advocating for USM's [Russell Scholars Program](https://usm.maine.edu/rscholar)
       - [Hiking](https://www.alltrails.com/members/carter-haid-1?ref=header) (Preferably Mountains)
       - Custom PC Building
