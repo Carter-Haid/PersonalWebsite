@@ -10,6 +10,7 @@ name: Carter Haid
 title: Cyber Security Student
 email: carter.haid@maine.edu
 website: www.carterhaid.com
+phone: (401) 346-1338
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -89,7 +90,7 @@ content:
         sub_title: Information Technology Intern
         caption: May 2019 - May 2020
         quote: >
-          Empowering the people who serve the public.
+          Personalized Service Across the Nation.
         description: | # this will include new lines to allow paragraphs
             Every company needs its networks properly administered and The Boring Compay is no exception.
       - layout: left
@@ -97,7 +98,7 @@ content:
         link: jax.org
         # link_text: boringcompany.com
         sub_title: Network Engineering Intern
-        caption: May 2018 - September 2020 
+        caption: May 2018 - September 2020
         quote: >
           Empowering the people who serve the public.
         description: | # this will include new lines to allow paragraphs
@@ -112,15 +113,15 @@ content:
         quote: >
           The University of Everyone.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          During my time at USM I learned many key skills including teamwork and dealing with tight deadlines. I also learned how to build community and work with people from all walks of live during my jobs as a *Resident Assistant*.
+          I spent a lot of my free time working with the *Russell Scholars Program* taking on roles such as *Lead Peer Mentor* and *Program Advocate*.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Working on Certifications... Right now I have: <mark>CompTIA Security+</mark> + & <mark>AWS Cloud Practitioner</mark>
       - Advocating for USM's [Russell Scholars Program](https://usm.maine.edu/rscholar)
       - [Hiking](https://www.alltrails.com/members/carter-haid-1?ref=header) (Preferably Mountains)
-      - Gaming
       - Custom PC Building
 # Footer
 footer_show_references: true
