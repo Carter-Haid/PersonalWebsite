@@ -10,7 +10,7 @@ name: Carter Haid
 title: Cyber Security Student
 email: carter.haid@maine.edu
 website: www.carterhaid.com
-phone: (401) 346-1338
+phone: **(401) 346-1338**
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -82,7 +82,7 @@ content:
         quote: >
           Empowering the people who serve the public.
         description: | # this will include new lines to allow paragraphs
-            My primary focus at Tyler Technologies was policy and procedure documentation. I had the oppertunity to work with multiple information security teams and document what they do on a day to day basis. I also got some awesome training about how to use metasploit for penetration testing and wrote their company wiki page for some newly developed Security Tools.
+            My primary focus at Tyler Technologies was policy and procedure documentation. I had the oppertunity to work with multiple information security teams and document what they do on a day to day basis. I also got some awesome training about how to use <mark>Burp Suite</mark> for penetration testing and wrote their company wiki page for some newly developed Security Tools.
       - layout: left
         title: Northeast Bank
         link: northeastbank.com
