@@ -1,6 +1,4 @@
-# PersonalWebsite
-
-CarterHaid.com
+# PersonalWebsite - CarterHaid.com
 ======
 [**Carterhaid.com**](http://carterhaid.com) is my personal/project website.
 
