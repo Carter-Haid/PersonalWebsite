@@ -6,7 +6,7 @@ CarterHaid.com
 
 ## Technology
 * Ruby and SCSS
-* [IconSets](https://fontawesome.com/icons?d=gallery&p=2)
+* FontAwesome - [IconSets](https://fontawesome.com/icons?d=gallery&p=2)
 * [GitHub Pages](http://pages.github.com/)
 
 ## Contact
