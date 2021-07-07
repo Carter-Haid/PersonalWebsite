@@ -1,5 +1,5 @@
-# PersonalWebsite - CarterHaid.com
-======
+# Personal Website - CarterHaid.com
+
 [**Carterhaid.com**](http://carterhaid.com) is my personal/project website.
 
 ## Technology
