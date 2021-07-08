@@ -81,8 +81,7 @@ content:
         caption: May 2021 - Present
         quote: >
           Single is a Terrible Thing to Waste
-        description: | # this will include new lines to allow paragraphs
-            
+        description: | # this will include new lines to allow paragraph 
       - layout: left
         title: Tyler Technologies
         link: tylertech.com
