@@ -73,6 +73,16 @@ content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
+     - layout: left
+        title: Tinder
+        link: tinder.com
+        # link_text: boringcompany.com
+        sub_title: Software Engineering Intern (Security)
+        caption: May 2021 - Present
+        quote: >
+          Single is a Terrible Thing to Waste
+        description: | # this will include new lines to allow paragraphs
+            
       - layout: left
         title: Tyler Technologies
         link: tylertech.com
