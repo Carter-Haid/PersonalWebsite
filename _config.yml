@@ -94,22 +94,22 @@ content:
         description: | # this will include new lines to allow paragraphs
             I worked as a long term intern for Northeast Bank. I traveled western Maine completing tickets, making network fixes, and upgrading old infastructre. I also learned how to triage tickets and monitor the network for performance issues, security threats, or outages.
       - layout: left
-        title: The Jackson Laboratory
+        title: Jackson Laboratory
         link: jax.org
         # link_text: boringcompany.com
         sub_title: Network Engineering Intern
         caption: May 2018 - September 2020
         quote: >
-          Empowering the people who serve the public.
+          Shaping the future of human health.
         description: | # this will include new lines to allow paragraphs
-            My first summer internship after my freshman year of college. I Learned <mark>Extreme Networking</mark> and gained more exposure into how firewalls, load balancers, and WAP's work. I also helped to design and implement the data network in their newly constructed facility in Ellsworth, Maine.
+            My first summer internship after my freshman year of college. I learned <mark>Extreme Networking</mark> and gained more exposure into how firewalls, load balancers, and WAP's work. I also helped to design and implement the data network in their newly constructed facility in Ellsworth, Maine.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: University of Southern Maine
         caption: 2017 - Present
-        sub_title: BSc Cyber Security
+        sub_title: B.S. Cyber Security
         quote: >
           The University of Everyone.
         description: | # this will include new lines to allow paragraphs
