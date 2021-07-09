@@ -59,8 +59,6 @@ content:
         title: University of Southern Maine
         caption: 2017 - Present
         sub_title: B.S. Cyber Security
-        quote: >
-          The University of Everyone.
         description: | # this will include new lines to allow paragraph
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
