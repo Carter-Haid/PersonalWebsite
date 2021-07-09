@@ -49,7 +49,7 @@ linkedin_username: CarterHaid
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Carter and I'm a Cyber Security Student. Right now I'm a Security Engineering Intern for Tinder. I have worked at a number of companies learning what working in tech is like and gaining skills along the way.
+  Hi, my name's Carter and I'm a Cyber Security Student. Right now I'm a Security Engineering Intern for Tinder. I have worked at a number of companies and gained numerous technical skills along the way.
   I am most skilled in: <mark>Python</mark>, <mark>AWS</mark>, and <mark>Penetration Testing</mark>.
 content:
   - title: Education # Title for the section
