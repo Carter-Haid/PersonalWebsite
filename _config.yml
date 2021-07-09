@@ -52,24 +52,16 @@ about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Carter and I'm a Cyber Security Student. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
   I am most skilled in: <mark>Python</mark>, <mark>AWS</mark>, and <mark>Penetration Testing</mark>.
 content:
-  - title: Projects # Title for the section
+  - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: Campus Parking Project
-        link: parkusm.com
-        # link_text: Project Website
-        additional_links:
-          - title:  Carter-Haid/Park-USM
-            icon: fab fa-github
-            url: github.com/Carter-Haid/Park-USM
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        # quote: >
-          # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          The Campus Parking Project is a parking lot availability visualizer written in <mark>Python</mark> for the University of Southern Maine. I started this project as a way if learning <mark>Flask</mark> and it has since grown into a fully fledged progressive web app. I have learned many skills through this and been I'm very proud of having this in my portfolio.
+      - layout: left
+        title: University of Southern Maine
+        caption: 2017 - Present
+        sub_title: B.S. Cyber Security
+        quote: >
+          The University of Everyone.
+        description: | # this will include new lines to allow paragraph
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -109,16 +101,24 @@ content:
         quote: >
           Shaping the future of human health.
         description: | # this will include new lines to allow paragraphs
-  - title: Education # Title for the section
+  - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: University of Southern Maine
-        caption: 2017 - Present
-        sub_title: B.S. Cyber Security
-        quote: >
-          The University of Everyone.
+      - layout: top-middle
+        title: Campus Parking Project
+        link: parkusm.com
+        # link_text: Project Website
+        additional_links:
+          - title:  Carter-Haid/Park-USM
+            icon: fab fa-github
+            url: github.com/Carter-Haid/Park-USM
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        # quote: >
+          # This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
         description: | # this will include new lines to allow paragraphs
+          The Campus Parking Project is a parking lot availability visualizer written in <mark>Python</mark> for the University of Southern Maine. I started this project as a way if learning <mark>Flask</mark> and it has since grown into a fully fledged progressive web app. I have learned many skills through this and been I'm very proud of having this in my portfolio.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
