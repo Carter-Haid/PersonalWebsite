@@ -71,8 +71,6 @@ content:
         # link_text: boringcompany.com
         sub_title: Security Engineering Intern
         caption: May 2021 - Present
-        quote: >
-          Single is a Terrible Thing to Waste
         description: | # this will include new lines to allow paragraph 
       - layout: left
         title: Tyler Technologies
@@ -80,8 +78,6 @@ content:
         # link_text: boringcompany.com
         sub_title: Information Security Intern
         caption: May 2020 - August 2020
-        quote: >
-          Empowering the people who serve the public.
         description: | # this will include new lines to allow paragraphs
       - layout: left
         title: Northeast Bank
@@ -89,8 +85,6 @@ content:
         # link_text: boringcompany.com
         sub_title: Information Technology Intern
         caption: May 2019 - May 2020
-        quote: >
-          Personalized Service Across the Nation.
         description: | # this will include new lines to allow paragraphs
       - layout: left
         title: Jackson Laboratory
@@ -98,8 +92,6 @@ content:
         # link_text: boringcompany.com
         sub_title: Network Engineering Intern
         caption: May 2018 - September 2020
-        quote: >
-          Shaping the future of human health.
         description: | # this will include new lines to allow paragraphs
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
