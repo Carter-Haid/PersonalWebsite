@@ -77,7 +77,7 @@ content:
         title: Tinder
         link: tinder.com
         # link_text: boringcompany.com
-        sub_title: Software Engineering Intern (Security)
+        sub_title: Security Engineering Intern
         caption: May 2021 - Present
         quote: >
           Single is a Terrible Thing to Waste
@@ -91,7 +91,6 @@ content:
         quote: >
           Empowering the people who serve the public.
         description: | # this will include new lines to allow paragraphs
-            My primary focus at Tyler Technologies was policy and procedure documentation. I had the oppertunity to work with multiple information security teams and document what they do on a day to day basis. I also got some awesome training about how to use <mark>Burp Suite</mark> for penetration testing and wrote their company wiki page for some newly developed Security Tools.
       - layout: left
         title: Northeast Bank
         link: northeastbank.com
@@ -101,7 +100,6 @@ content:
         quote: >
           Personalized Service Across the Nation.
         description: | # this will include new lines to allow paragraphs
-            I worked as a long term intern for Northeast Bank. I traveled western Maine completing tickets, making network fixes, and upgrading old infastructre. I also learned how to triage tickets and monitor the network for performance issues, security threats, or outages.
       - layout: left
         title: Jackson Laboratory
         link: jax.org
@@ -111,7 +109,6 @@ content:
         quote: >
           Shaping the future of human health.
         description: | # this will include new lines to allow paragraphs
-            My first summer internship after my freshman year of college. I learned <mark>Extreme Networking</mark> and gained more exposure into how firewalls, load balancers, and WAP's work. I also helped to design and implement the data network in their newly constructed facility in Ellsworth, Maine.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -122,8 +119,6 @@ content:
         quote: >
           The University of Everyone.
         description: | # this will include new lines to allow paragraphs
-          During my time at USM I learned many key skills including teamwork and dealing with tight deadlines. I also learned how to build community and work with people from all walks of live during my jobs as a *Resident Assistant*.
-          I spent a lot of my free time working with the *Russell Scholars Program* taking on roles such as *Lead Peer Mentor* and *Program Advocate*.
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
