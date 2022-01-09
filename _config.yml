@@ -57,7 +57,7 @@ content:
     content:
       - layout: left
         title: University of Southern Maine
-        caption: 2017 - Present
+        caption: 2017 - 2021
         sub_title: B.S. Cyber Security
         description: | # this will include new lines to allow paragraph
   - title: Experience # Title for the section
@@ -69,7 +69,7 @@ content:
         # link_text: boringcompany.com
         sub_title: Security Engineering Intern
         caption: May 2021 - December 2021
-        description: | # this will include new lines to allow paragraph 
+        description: | # this will include new lines to allow paragraphs
       - layout: left
         title: Tyler Technologies
         link: tylertech.com
@@ -77,6 +77,9 @@ content:
         sub_title: Information Security Intern
         caption: May 2020 - August 2020
         description: | # this will include new lines to allow paragraphs
+         - Performed vendor risk assessments using Security Scorecard’s open-source intelligence software.
+         - Offered security-related outreach and advice to various departments within an agile environment. 
+         - Used text and video to document policy and procedure changes using Confluence. 
       - layout: left
         title: Northeast Bank
         link: northeastbank.com
@@ -84,6 +87,9 @@ content:
         sub_title: Information Technology Intern
         caption: May 2019 - May 2020
         description: | # this will include new lines to allow paragraphs
+         - Monitored and assisted in response to Symantec Endpoint Detection security alerts/errors. 
+         - Worked with Active Directory to build user profiles, reset passwords, and unlock accounts.
+         - Provided support for Windows 10 clients using RDP, Confluence, and Jira Ticketing System.
       - layout: left
         title: Jackson Laboratory
         link: jax.org
@@ -91,6 +97,9 @@ content:
         sub_title: Network Engineering Intern
         caption: May 2018 - September 2020
         description: | # this will include new lines to allow paragraphs
+         - Assisted in designing, planning, and implementing a data network for a 200,000 square foot facility.
+         - Tested potential network designs by simulating network traffic in Cisco Packet Tracer and GNS3.
+         - Automated the programming of routers, switches, and firewalls using Python.
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
