@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Carter Haid
-title: Cyber Security Student
+title: Aspiring Security Professional
 email: carter.haid@maine.edu
 website: carterhaid.com
 phone: (401) 346-1338
@@ -49,7 +49,7 @@ linkedin_username: CarterHaid
 # about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Carter and I'm an aspiring Cyber Security Professional. I just finished up an extended software engineering internship on Tinder's security team. I have worked at several of companies and gained numerous technical skills along the way.
+  Hi, my name's Carter and I'm an aspiring Information Security Professional. I just finished up an extended software engineering internship on Tinder's security team. I have worked at several of companies and gained numerous technical skills along the way.
   I am most skilled in <mark>Python</mark>, <mark>AWS</mark>, and <mark>Penetration Testing</mark>. I'm currently looking for a full-time position in the Greater Boston area or remotely.  
 content:
   - title: Education # Title for the section
@@ -112,7 +112,7 @@ content:
             icon: fab fa-github
             url: github.com/Carter-Haid/Park-USM
         description: | # this will include new lines to allow paragraphs
-          The Campus Parking Project is a parking lot availability visualizer written in <mark>Python</mark> for the University of Southern Maine. I started this project as a way of learning <mark>Flask</mark> and it has since grown into a fully-fledged progressive web app. I have learned many skills through this and been I'm very proud of having this in my portfolio.
+          The Campus Parking Project is a parking lot availability visualizer written in <mark>Python</mark> for the University of Southern Maine. I started this project as a way of learning <mark>Flask</mark> and it has since grown into a fully-fledged progressive web app.
       - layout: top-middle
         title: Gibberish (Work In Progress)
         link: github.com/Carter-Haid/Gibberish
