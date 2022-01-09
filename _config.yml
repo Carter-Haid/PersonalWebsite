@@ -60,8 +60,8 @@ content:
         caption: 2017 - 2021
         sub_title: B.S. Cyber Security
         description: | # this will include new lines to allow paragraphs
-         - Lead Peer Mentor - [Russell Scholars Program](https://usm.maine.edu/rscholar/meet-our-peer-mentors)
          - Lead Resident Assistant - USM Department of Residential Life
+         - Lead Peer Mentor - [Russell Scholars Program](https://usm.maine.edu/rscholar/meet-our-peer-mentors)
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -72,6 +72,9 @@ content:
         sub_title: Security Engineering Intern
         caption: May 2021 - December 2021
         description: | # this will include new lines to allow paragraphs
+         - 
+         - 
+         -  
       - layout: left
         title: Tyler Technologies
         link: tylertech.com
@@ -125,7 +128,7 @@ content:
             url: https://github.com/Carter-Haid/Gibberish
         description: | # this will include new lines to allow paragraphs
           Gibberish is a last line of defense for systems that have been compromised by a keylogger. A small USB passthrough device is placed between a keyboard and a computer's USB port and keystrokes are encrypted before they hit the I/O. Demonstrated using <mark>C++</mark>, Arduino Leonardo, and a USB-Host Shield.  
-  - title: A Little More About Me
+  - title: About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
@@ -135,7 +138,7 @@ content:
       - Surfing
       - Building Custom PCs
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
